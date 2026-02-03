@@ -1,0 +1,3 @@
+The system improves efficiency by reducing manual effort.
+This application performs document comparison.
+It helps in analyzing similarity between documents.

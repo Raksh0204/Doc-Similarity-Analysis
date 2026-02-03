@@ -1,0 +1,3 @@
+Efficiency is increased by minimizing manual work.
+The project is designed for analyzing document similarity.
+Repeated ideas in documents can be identified.
