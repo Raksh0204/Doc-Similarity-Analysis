@@ -1,54 +1,68 @@
-📄 Doc Similarity & Semantic Redundancy Analysis System
-📌 Overview
+# 📄 Doc Similarity & Semantic Redundancy Analysis System
+---
 
-This project focuses on analyzing document similarity and detecting semantic redundancy between text files.
+## 📌 Overview
+
+This project focuses on **analyzing document similarity** and **detecting semantic redundancy** between text files.
 It helps identify repeated ideas even when they are written using different words or sentence structures.
-
 The system is useful in areas like plagiarism detection, document comparison, and content analysis, where understanding meaning matters more than exact word matches.
 
-🎯 Objectives
+---
 
-Reduce manual effort in document comparison
-Detect similarity beyond exact word matching
-Identify repeated ideas expressed differently
-Improve efficiency and accuracy in document analysis
+## 🎯 Objectives
 
-⚙️ How It Works
+- Reduce manual effort in document comparison
+- Detect similarity beyond exact word matching
+- Identify repeated ideas expressed differently
+- Improve efficiency and accuracy in document analysis
+  
+---
 
-Input documents are collected from the test_docs folder
-Reference documents are loaded from reference_docs
-Text is processed and analyzed for similarity
-The system identifies:
-Similar documents
-Repeated ideas written in different forms
+## ⚙️ How It Works
 
-💡 Key Features
+1. 📥 Input documents are taken from test_docs/
+2. 📂 Reference documents are loaded from reference_docs/
+3. 🧠 Text is processed and analyzed for similarity
+4. 📊 The system identifies:
+    Similar documents
+    Repeated ideas written in different forms
+   
+---
 
-Semantic-based document comparison
-Redundancy detection across multiple files
-Simple and modular project structure
-Easy to extend for larger datasets
+## 💡 Key Features
 
-🚀 Applications
+- Semantic-based document comparison
+- Redundancy detection across multiple files
+- Simple and modular project structure
+- Easy to extend for larger datasets
+  
+---
 
-Plagiarism detection systems
-Academic document analysis
-Content deduplication
-Text similarity research
+## 🚀 Applications
 
-🧠 Technologies Used
+- 📄 Plagiarism detection systems
+- 🎓 Academic document analysis
+- 🧹 Content deduplication
+- 🔬 Text similarity research
 
-Programming Language: Java
-Concepts:
-Document similarity analysis
-Semantic redundancy detection
+---
 
-✅ Status
+## 🧠 Technologies Used
 
-✔️ Initial version completed
-🔧 Enhancements and optimizations in progress
+- Programming Language: Java
+- Concepts:
+    - Document similarity analysis
+    - Semantic redundancy detection
 
-👩‍💻 Author
+----
 
-Rakshitha U
-B.E. – Electronics and Communication Engineering
+## ✅ Status
+
+- ✔️ Initial version completed
+- 🔧 Enhancements and optimizations in progress
+
+---
+
+## 👩‍💻 Author
+
+Rakshitha U | B.E. Electronics and Communication Engineering
