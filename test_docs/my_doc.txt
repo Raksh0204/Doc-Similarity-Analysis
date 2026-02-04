@@ -2,5 +2,4 @@ The system improves efficiency by reducing manual effort.
 It minimizes human involvement and increases overall performance.
 This project focuses on document similarity analysis.
 The system also detects repeated ideas written in different ways.
-I hate you
-and I love bnmit and nihar
+
